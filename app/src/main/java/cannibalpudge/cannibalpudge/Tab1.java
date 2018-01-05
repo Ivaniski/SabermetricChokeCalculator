@@ -32,5 +32,6 @@ public class Tab1 extends Fragment{
         TextView textView = (TextView) rootView.findViewById(R.id.section_label);
         //textView.setText(getString(R.string.section_format, new Object[]{getArguments().getInt(ARG_SECTION_NUMBER)}));
         return rootView;
+        //
     }
 }
