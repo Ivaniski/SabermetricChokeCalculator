@@ -1,8 +1,6 @@
 package cannibalpudge.cannibalpudge;
 
-/**
- * Created by Eddy on 1/4/2018.
- */
+
 
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;

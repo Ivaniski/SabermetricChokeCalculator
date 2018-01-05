@@ -1,8 +1,5 @@
 package cannibalpudge.cannibalpudge;
 
-/**
- * Created by Eddy on 1/4/2018.
- */
 
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -32,6 +29,10 @@ public class Tab1 extends Fragment{
         TextView textView = (TextView) rootView.findViewById(R.id.section_label);
         //textView.setText(getString(R.string.section_format, new Object[]{getArguments().getInt(ARG_SECTION_NUMBER)}));
         return rootView;
+        //
+    }
+
+    public void calculateStat(View view) {
         //
     }
 }
