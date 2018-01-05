@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CannibalPudge.iml" filepath="$PROJECT_DIR$/CannibalPudge.iml" />
+      <module fileurl="file://C:\Users\Eddy\StudioProjects\SabermetricChokeCalculator\CannibalPudge.iml" filepath="C:\Users\Eddy\StudioProjects\SabermetricChokeCalculator\CannibalPudge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SabermetricChokeCalculator.iml" filepath="$PROJECT_DIR$/SabermetricChokeCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
